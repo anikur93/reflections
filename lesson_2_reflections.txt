@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initialising created meta data about the folder, like how many untracked files are present and all
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area acts like a bridge between working directory and the repository.......It customizes the part of the commit we need to make like just adding some files to commit and not all in the repository
