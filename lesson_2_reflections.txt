@@ -4,3 +4,7 @@ Initialising created meta data about the folder, like how many untracked files a
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area acts like a bridge between working directory and the repository.......It customizes the part of the commit we need to make like just adding some files to commit and not all in the repository
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Even though if we have multiple logics to update across different files, using staging are we can commit only one logic at once
