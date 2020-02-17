@@ -16,3 +16,11 @@ when we want to experiment with the code or made some changes and make new thing
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help us to see different brahces presesnt and help us to visualise the branch structure
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merging makes two different braches to merge and allows us to have both the functionalities in the final merged code
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros : It makes work easy, saves time, not need to go thorugh entire code, easy to differentiate two sets of code if there is a conflict
+Cons : When merging happens but in wrong way
