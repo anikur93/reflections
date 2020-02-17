@@ -12,3 +12,7 @@ Even though if we have multiple logics to update across different files, using s
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 when we want to experiment with the code or made some changes and make new thing of the master then in these conditions branches would be useful
+
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help us to see different brahces presesnt and help us to visualise the branch structure
