@@ -4,3 +4,9 @@ When I want to share the work with other colleagues.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Automatically staying up-to-date may not always be good. There may be some changes which we don't need in the local, so manually doing would be better
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks : When you copy a githib repository onto ur github repository
+Clones : When you copy a github repositry onto ur local
+Branches : When u want make experiments and changes to the existing code but don't want to mess with the code.
