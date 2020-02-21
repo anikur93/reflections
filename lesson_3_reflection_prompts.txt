@@ -15,3 +15,6 @@ Branches : When u want make experiments and changes to the existing code but don
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The main benefit would be if we don't have the internet access, to campare the updated local files with the github file is possible ghrough locally stored remote file
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git/Github means for collaborating we need to use mails or drive to send a file/code and there would not be any history or logs of the commit which makes everything difficult
